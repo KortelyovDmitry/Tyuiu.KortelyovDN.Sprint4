@@ -3,6 +3,7 @@
 namespace Tyuiu.KortelyovDN.Sprint4.Task6.V17.Lib
 {
     public class DataService : ISprint4Task6V17
+        //d
     {
         public int Calculate(string[] array)
         {
