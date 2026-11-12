@@ -11,14 +11,14 @@ namespace Tyuiu.KortelyovDN.Sprint4.Task7.V30
             int[,] mtrx = new int[rows, columns];
 
             string str = "684259137159648";
-            //dsadf
+
             DataService ds = new DataService();
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            int index = 0;
+            int index = 0; 
 
             Console.WriteLine("\nМассив:");
             for (int i = 0; i < rows; i++)
